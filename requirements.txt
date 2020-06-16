@@ -1,0 +1,15 @@
+click==7.1.2
+Flask==1.1.2
+flask-accept==0.0.6
+future==0.18.2
+gevent==20.5.0
+greenlet==0.4.15
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+msgpack==1.0.0
+Pillow==7.1.2
+pyzmq==19.0.1
+reportlab==3.5.42
+Werkzeug==1.0.1
+zerorpc==0.6.3
